@@ -1,0 +1,1 @@
+document.getElementById('btn').onclick =  () => alert('成功了！');
