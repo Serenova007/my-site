@@ -1,3 +1,10 @@
-body {font-family:sans-serif; text-align:center; margin-top:80px; }
+body {font-family:sans-serif; font-size: 20px; text-align:center; margin-top:80px; }
 h1 { color:aquamarine;}
 button {padding: 8px 20px; border: none; background: #2b7de9; color: #fff ;border-radius: 6px; cursor:pointer;}
+.bth-group {
+    display: flex;
+    gap: 16px;
+    justify-content: center;
+    margin: 0;
+    margin-top: 20px;
+}
